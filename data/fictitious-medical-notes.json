@@ -1,64 +1,64 @@
 {
   "medical_notes": [
     {
-      "note": "A 45-year-old female patient, Ms. Thompson, presented with complaints of persistent headaches, dizziness, and blurred vision. Upon examination, she was found to have elevated blood pressure readings. Ms. Thompson's weight is 165 lbs. She has been prescribed Lisinopril to be taken once daily. It was noted during the consultation that the patient has a family history of hypertension."
+      "note": "A 45-year-old female patient, Ms. Thompson, presented with complaints of persistent headaches, dizziness, and blurred vision. Upon examination, her blood pressure was found to be significantly elevated. Ms. Thompson's weight is 165 lbs and her height is 5'6. She was diagnosed with hypertension and prescribed Lisinopril to be taken once daily. It was noted that the patient is a non-smoker but leads a sedentary lifestyle."
     },
     {
-      "note": "A 32-year-old male patient, Mr. Garcia, came in with symptoms of severe abdominal pain, nausea, and vomiting. After a series of tests, he was diagnosed with acute appendicitis. Mr. Garcia's weight is 180 lbs. He was immediately scheduled for an emergency appendectomy. It was noted that the patient has no known drug allergies."
+      "note": "Mr. Rodriguez, a 52-year-old male, came in with symptoms of shortness of breath, chest pain, and fatigue during physical activity. After a thorough cardiac evaluation, he was diagnosed with coronary artery disease. Mr. Rodriguez weighs 195 lbs and stands at 5'10. He is a former smoker who quit 5 years ago. He was prescribed Aspirin and a statin, and referred to a cardiologist for further management."
     },
     {
-      "note": "A 55-year-old female patient, Mrs. Chen, presented with complaints of joint pain, stiffness, and swelling in her hands and knees. After a thorough examination and blood tests, she was diagnosed with rheumatoid arthritis. Mrs. Chen's weight is 140 lbs. She has been prescribed Methotrexate and advised to start physical therapy. It was noted that the patient has a history of osteoporosis."
+      "note": "A 38-year-old female patient, Ms. Chen, presented with complaints of joint pain, stiffness, and swelling in her hands and feet. Upon examination and blood tests, she was diagnosed with rheumatoid arthritis. Ms. Chen's weight is 130 lbs and her height is 5'4. She is a non-smoker. She was prescribed Methotrexate and referred to a rheumatologist for ongoing care."
     },
     {
-      "note": "A 28-year-old male patient, Mr. Patel, came in with symptoms of shortness of breath, wheezing, and chest tightness. He was diagnosed with asthma after pulmonary function tests. Mr. Patel's weight is 155 lbs. He has been prescribed an albuterol inhaler for use as needed. It was noted that the patient has a history of seasonal allergies."
+      "note": "Mr. Williams, a 70-year-old male, came in for a routine check-up and reported increasing difficulty with memory and daily tasks. After cognitive testing and brain imaging, he was diagnosed with early-stage Alzheimer's disease. Mr. Williams weighs 180 lbs and is 6'0 tall. He is a non-smoker. He was prescribed Donepezil and referred to a neurologist for further management."
     },
     {
-      "note": "A 70-year-old female patient, Mrs. Williams, presented with complaints of memory loss, confusion, and difficulty with daily tasks. After cognitive testing and brain imaging, she was diagnosed with early-stage Alzheimer's disease. Mrs. Williams' weight is 130 lbs. She has been prescribed Donepezil and referred to a neurologist for ongoing care. It was noted that the patient lives with her daughter who will assist with medication management."
+      "note": "A 28-year-old female patient, Ms. Patel, presented with symptoms of excessive sweating, rapid heartbeat, and unexplained weight loss. After thyroid function tests, she was diagnosed with hyperthyroidism. Ms. Patel's weight is 110 lbs and her height is 5'2. She is a non-smoker. She was prescribed Methimazole and referred to an endocrinologist for ongoing treatment."
     },
     {
-      "note": "A 50-year-old male patient, Mr. Brown, came in for a routine check-up and was found to have elevated cholesterol levels. Mr. Brown's weight is 200 lbs. He has been prescribed Atorvastatin and advised to make dietary changes. It was noted that the patient has a sedentary lifestyle and a family history of heart disease."
+      "note": "Mr. Brown, a 55-year-old male, came in complaining of chronic lower back pain and stiffness. X-rays and MRI revealed degenerative disc disease. Mr. Brown weighs 220 lbs and stands at 5'11. He is a current smoker. He was prescribed physical therapy and NSAIDs for pain management, and strongly advised to quit smoking."
     },
     {
-      "note": "A 35-year-old female patient, Ms. Rodriguez, presented with symptoms of fatigue, weight gain, and depression. After blood tests, she was diagnosed with hypothyroidism. Ms. Rodriguez's weight is 175 lbs. She has been prescribed Levothyroxine to be taken daily on an empty stomach. It was noted that the patient is trying to conceive and has been advised to follow up regularly."
+      "note": "A 42-year-old female patient, Ms. Garcia, presented with recurrent episodes of abdominal pain, bloating, and alternating constipation and diarrhea. After ruling out other conditions, she was diagnosed with irritable bowel syndrome (IBS). Ms. Garcia's weight is 140 lbs and her height is 5'5. She is a non-smoker. She was advised on dietary changes and prescribed antispasmodics for symptom relief."
     },
     {
-      "note": "A 62-year-old male patient, Mr. Lee, came in with complaints of frequent urination, weak urine stream, and difficulty emptying his bladder. After examination and tests, he was diagnosed with benign prostatic hyperplasia (BPH). Mr. Lee's weight is 170 lbs. He has been prescribed Tamsulosin and advised to limit fluid intake before bedtime. It was noted that the patient has a history of hypertension."
+      "note": "Mr. Lee, a 65-year-old male, came in for evaluation of a persistent dry cough and shortness of breath. Pulmonary function tests and chest X-rays led to a diagnosis of chronic obstructive pulmonary disease (COPD). Mr. Lee weighs 160 lbs and is 5'8 tall. He is a long-term smoker. He was prescribed bronchodilators and strongly urged to quit smoking, with referral to a smoking cessation program."
     },
     {
-      "note": "A 40-year-old female patient, Mrs. Taylor, presented with symptoms of abdominal pain, bloating, and alternating constipation and diarrhea. After ruling out other conditions, she was diagnosed with irritable bowel syndrome (IBS). Mrs. Taylor's weight is 145 lbs. She has been advised to follow a low FODMAP diet and prescribed antispasmodics for symptom relief. It was noted that the patient reports high stress levels at work."
+      "note": "A 50-year-old female patient, Ms. Taylor, presented with complaints of excessive fatigue, weight gain, and sensitivity to cold. Thyroid function tests revealed hypothyroidism. Ms. Taylor's weight is 185 lbs and her height is 5'7. She is a non-smoker. She was prescribed Levothyroxine and scheduled for follow-up blood tests to monitor thyroid levels."
     },
     {
-      "note": "A 55-year-old male patient, Mr. Anderson, came in with complaints of chest pain and shortness of breath during physical activity. After a stress test and further cardiac evaluation, he was diagnosed with coronary artery disease. Mr. Anderson's weight is 220 lbs. He has been prescribed Aspirin and a statin, and referred for cardiac rehabilitation. It was noted that the patient is a former smoker who quit 5 years ago."
+      "note": "Mr. Nguyen, a 48-year-old male, came in with symptoms of frequent urination, excessive thirst, and blurred vision. Blood tests confirmed a diagnosis of type 2 diabetes. Mr. Nguyen weighs 200 lbs and stands at 5'9. He is a non-smoker. He was prescribed Metformin, advised on dietary changes, and referred to a diabetes education program."
     },
     {
-      "note": "A 30-year-old female patient, Ms. Martinez, presented with severe menstrual pain, heavy bleeding, and difficulty conceiving. After pelvic examination and ultrasound, she was diagnosed with endometriosis. Ms. Martinez's weight is 135 lbs. She has been prescribed hormonal birth control and referred to a gynecologist for possible laparoscopic treatment. It was noted that the patient has been trying to conceive for the past two years."
+      "note": "A 35-year-old female patient, Ms. Wilson, presented with severe headaches, sensitivity to light, and nausea. After a thorough neurological examination, she was diagnosed with migraine disorder. Ms. Wilson's weight is 135 lbs and her height is 5'6. She is an occasional smoker. She was prescribed Sumatriptan for acute attacks and advised to identify and avoid triggers."
     },
     {
-      "note": "A 68-year-old male patient, Mr. Wilson, came in with symptoms of tremors, stiffness, and difficulty with balance and movement. After neurological examination, he was diagnosed with Parkinson's disease. Mr. Wilson's weight is 160 lbs. He has been prescribed Levodopa and referred to a movement disorder specialist. It was noted that the patient's symptoms first appeared about a year ago but have progressively worsened."
+      "note": "Mr. Hassan, a 58-year-old male, came in complaining of joint pain, stiffness, and swelling, particularly in his knees and hips. X-rays confirmed osteoarthritis. Mr. Hassan weighs 230 lbs and is 6'1 tall. He is a non-smoker. He was advised on weight loss, prescribed NSAIDs for pain relief, and referred to physical therapy."
     },
     {
-      "note": "A 42-year-old female patient, Mrs. Kim, presented with complaints of chronic fatigue, widespread pain, and sleep disturbances. After ruling out other conditions, she was diagnosed with fibromyalgia. Mrs. Kim's weight is 150 lbs. She has been prescribed Pregabalin for pain management and referred to a pain specialist. It was noted that the patient reports a stressful life event preceding the onset of symptoms."
+      "note": "A 40-year-old female patient, Ms. Anderson, presented with persistent feelings of sadness, loss of interest in activities, and sleep disturbances. After a psychiatric evaluation, she was diagnosed with major depressive disorder. Ms. Anderson's weight is 150 lbs and her height is 5'5. She is a non-smoker. She was prescribed an SSRI antidepressant and referred for cognitive behavioral therapy."
     },
     {
-      "note": "A 58-year-old male patient, Mr. Davis, came in for a routine check-up and was found to have elevated PSA levels. After further testing, including a biopsy, he was diagnosed with early-stage prostate cancer. Mr. Davis' weight is 185 lbs. He has been referred to an oncologist to discuss treatment options, including active surveillance, surgery, and radiation therapy. It was noted that the patient has a family history of prostate cancer."
+      "note": "Mr. Sato, a 62-year-old male, came in for evaluation of tremors in his hands and difficulty with balance and movement. After a neurological examination, he was diagnosed with Parkinson's disease. Mr. Sato weighs 170 lbs and stands at 5'10. He is a non-smoker. He was prescribed Levodopa and referred to a neurologist for ongoing management."
     },
     {
-      "note": "A 25-year-old female patient, Ms. White, presented with symptoms of anxiety, panic attacks, and avoidance behaviors. After psychiatric evaluation, she was diagnosed with generalized anxiety disorder. Ms. White's weight is 120 lbs. She has been prescribed Sertraline and referred for cognitive behavioral therapy. It was noted that the patient's symptoms have been interfering with her work and social life."
+      "note": "A 30-year-old female patient, Ms. Murphy, presented with recurring episodes of wheezing, shortness of breath, and chest tightness. Pulmonary function tests confirmed a diagnosis of asthma. Ms. Murphy's weight is 125 lbs and her height is 5'3. She is a non-smoker. She was prescribed an inhaled corticosteroid and a rescue inhaler, and educated on asthma management techniques."
     },
     {
-      "note": "A 70-year-old male patient, Mr. Harris, came in with complaints of pain and stiffness in his hip, particularly when walking or standing for long periods. After X-rays and physical examination, he was diagnosed with osteoarthritis of the hip. Mr. Harris' weight is 190 lbs. He has been prescribed NSAIDs for pain relief and referred for physical therapy. It was noted that the patient uses a cane for assistance when walking long distances."
+      "note": "Mr. Kapoor, a 55-year-old male, came in with complaints of frequent heartburn, regurgitation, and difficulty swallowing. After an endoscopy, he was diagnosed with gastroesophageal reflux disease (GERD). Mr. Kapoor weighs 190 lbs and is 5'11 tall. He is a former smoker who quit 2 years ago. He was prescribed a proton pump inhibitor and advised on dietary and lifestyle changes."
     },
     {
-      "note": "A 38-year-old female patient, Mrs. Clark, presented with recurrent episodes of severe headache, nausea, and sensitivity to light and sound. After neurological examination and ruling out other causes, she was diagnosed with migraine headaches. Mrs. Clark's weight is 140 lbs. She has been prescribed Sumatriptan for acute attacks and Propranolol for prevention. It was noted that the patient identifies stress and certain foods as triggers for her migraines."
+      "note": "A 68-year-old female patient, Ms. O'Brien, presented with symptoms of fatigue, shortness of breath, and swelling in her legs. After cardiac evaluation, she was diagnosed with congestive heart failure. Ms. O'Brien's weight is 175 lbs and her height is 5'4. She is a non-smoker. She was prescribed diuretics and ACE inhibitors, and advised on sodium restriction and fluid management."
     },
     {
-      "note": "A 52-year-old male patient, Mr. Lewis, came in with symptoms of excessive thirst, frequent urination, and blurred vision. Upon evaluation, including blood tests, he was diagnosed with type 2 diabetes. Mr. Lewis' weight is 230 lbs. He has been prescribed Metformin and advised on lifestyle changes, including diet and exercise. It was noted that the patient has a sedentary job and a family history of diabetes."
+      "note": "Mr. Kim, a 45-year-old male, came in complaining of severe abdominal pain, nausea, and fever. Abdominal CT scan revealed acute pancreatitis. Mr. Kim weighs 210 lbs and stands at 5'9. He is a current smoker. He was admitted for IV fluids, pain management, and monitoring. He was strongly advised to stop alcohol consumption and quit smoking."
     },
     {
-      "note": "A 60-year-old female patient, Mrs. Walker, presented with complaints of chronic cough, shortness of breath, and wheezing. After pulmonary function tests and chest X-rays, she was diagnosed with chronic obstructive pulmonary disease (COPD). Mrs. Walker's weight is 125 lbs. She has been prescribed a bronchodilator inhaler and advised to quit smoking. It was noted that the patient has a 40-year history of smoking."
+      "note": "A 52-year-old female patient, Ms. Fernandez, presented with unexplained weight loss, excessive sweating, and heart palpitations. After endocrine testing, she was diagnosed with Graves' disease. Ms. Fernandez's weight is 120 lbs and her height is 5'5. She is a non-smoker. She was prescribed antithyroid medication and referred to an endocrinologist for further management."
     },
     {
-      "note": "A 48-year-old male patient, Mr. Hall, came in with symptoms of excessive sweating, rapid heartbeat, and unexplained weight loss. After blood tests and thyroid examination, he was diagnosed with hyperthyroidism. Mr. Hall's weight is 160 lbs. He has been prescribed Methimazole and referred to an endocrinologist for ongoing care. It was noted that the patient reports feeling anxious and having difficulty sleeping."
+      "note": "Mr. Campbell, a 70-year-old male, came in for evaluation of increasing urinary frequency, urgency, and difficulty starting urination. After a prostate exam and PSA test, he was diagnosed with benign prostatic hyperplasia (BPH). Mr. Campbell weighs 185 lbs and is 5'10 tall. He is a non-smoker. He was prescribed an alpha-blocker and advised on lifestyle modifications to manage symptoms."
     }
   ]
 }
